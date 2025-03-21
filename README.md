@@ -13,12 +13,12 @@ This repository contains various Manim scripts that demonstrate key ideas covere
 | Sorting Algorithm | Binary Tree Visualization |
 |-------------------|--------------------------|
 | See how numbers move step by step as they get sorted. | A growing tree structure showing how data is organized. |
-| ![Sorting Algorithm](https://github.com/user-attachments/assets/5911022a-3fc0-4d61-970c-65cf5646e932) | ![Binary Tree](https://github.com/user-attachments/assets/0fde0a99-d61b-4cc6-b480-f67751f613d5) |
+| ![Sorting Algorithm](https://github.com/user-attachments/assets/6eac476d-d363-4ed5-83ea-c62fa60620d5) | ![Binary Tree](https://github.com/user-attachments/assets/c4ee0869-1e2d-43c8-aca5-c593b8fbd00c) |
 
 ### **🎨 Smooth UI Navigation**
 A transition effect demonstrating better user experience.
 
-![Smooth UI Navigation](https://github.com/user-attachments/assets/your-link-here)
+![Smooth UI Navigation](https://github.com/user-attachments/assets/6effb070-c70d-4770-93d2-c524a750d25e)
 
 ---
 
