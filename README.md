@@ -10,12 +10,21 @@ This repository contains various Manim scripts that demonstrate key ideas covere
 
 ## ✨ Example Animations
 
-| Sorting Algorithm | Binary Tree Visualization |
-|-------------------|--------------------------|
-| See how numbers move step by step as they get sorted. | A growing tree structure showing how data is organized. |
-| ![Sorting Algorithm](https://raw.githubusercontent.com/your-username/your-repo/main/assets/sorting.gif) | ![Binary Tree](https://raw.githubusercontent.com/your-username/your-repo/main/assets/binary_tree.gif) |
+### **1️⃣ Sorting Algorithm in Action**
+See how numbers move step by step as they get sorted.
 
-### **🎨 Smooth UI Navigation**
+![Sorting Algorithm](https://raw.githubusercontent.com/your-username/your-repo/main/assets/sorting.gif)
+
+---
+
+### **2️⃣ Visualizing a Binary Tree**
+A growing tree structure showing how data is organized.
+
+![Binary Tree](https://raw.githubusercontent.com/your-username/your-repo/main/assets/binary_tree.gif)
+
+---
+
+### **3️⃣ Smooth UI Navigation**
 A transition effect demonstrating better user experience.
 
 ![Smooth UI Navigation](https://raw.githubusercontent.com/your-username/your-repo/main/assets/ui_navigation.gif)
@@ -23,10 +32,10 @@ A transition effect demonstrating better user experience.
 ---
 
 ## 🛠 Tools Used
-- **Manim** – Animation engine for mathematical and UI visuals
-- **Python** – Scripting language for defining animations
-- **FFmpeg** – Video processing and rendering
-- **LaTeX** – For rendering mathematical notations (where applicable)
+✅ **Manim** – Animation engine for mathematical and UI visuals  
+✅ **Python** – Scripting language for defining animations  
+✅ **FFmpeg** – Video processing and rendering  
+✅ **LaTeX** – For rendering mathematical notations (where applicable)  
 
 ---
 
@@ -35,3 +44,4 @@ A transition effect demonstrating better user experience.
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
+
