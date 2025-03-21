@@ -13,12 +13,12 @@ This repository contains various Manim scripts that demonstrate key ideas covere
 | Sorting Algorithm | Binary Tree Visualization |
 |-------------------|--------------------------|
 | See how numbers move step by step as they get sorted. | A growing tree structure showing how data is organized. |
-| ![Sorting Algorithm](https://github.com/user-attachments/assets/6eac476d-d363-4ed5-83ea-c62fa60620d5) | ![Binary Tree](https://github.com/user-attachments/assets/c4ee0869-1e2d-43c8-aca5-c593b8fbd00c) |
+| ![Sorting Algorithm](https://raw.githubusercontent.com/your-username/your-repo/main/assets/sorting.gif) | ![Binary Tree](https://raw.githubusercontent.com/your-username/your-repo/main/assets/binary_tree.gif) |
 
 ### **🎨 Smooth UI Navigation**
 A transition effect demonstrating better user experience.
 
-![Smooth UI Navigation](https://github.com/user-attachments/assets/6effb070-c70d-4770-93d2-c524a750d25e)
+![Smooth UI Navigation](https://raw.githubusercontent.com/your-username/your-repo/main/assets/ui_navigation.gif)
 
 ---
 
@@ -33,5 +33,5 @@ A transition effect demonstrating better user experience.
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/your-username/your-repo.git
    cd your-repo
