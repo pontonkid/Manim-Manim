@@ -13,21 +13,24 @@ This repository contains various Manim scripts that demonstrate key ideas covere
 ### **1️⃣ Sorting Algorithm in Action**
 See how numbers move step by step as they get sorted.
 
-![Sorting Algorithm](https://raw.githubusercontent.com/your-username/your-repo/main/assets/sorting.gif)
+https://github.com/user-attachments/assets/e1078d57-b4b6-4b70-91bf-d11c4e60ddd2
+
 
 ---
 
 ### **2️⃣ Visualizing a Binary Tree**
 A growing tree structure showing how data is organized.
 
-![Binary Tree](https://raw.githubusercontent.com/your-username/your-repo/main/assets/binary_tree.gif)
+https://github.com/user-attachments/assets/5e597243-584b-407f-bcb2-72dea401ded2
+
 
 ---
 
 ### **3️⃣ Smooth UI Navigation**
 A transition effect demonstrating better user experience.
 
-![Smooth UI Navigation](https://raw.githubusercontent.com/your-username/your-repo/main/assets/ui_navigation.gif)
+
+https://github.com/user-attachments/assets/8e18268c-9137-453b-9b32-7c89300fd6b4
 
 ---
 
