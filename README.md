@@ -3,7 +3,7 @@
 ## 🎬 What is Manim?
 Manim is an animation engine that brings concepts to life through motion. Whether you're working with math, programming, or UI/UX, Manim helps break things down visually, making them easier to understand. 
 
-This repository contains various Manim scripts that demonstrate key ideas covered in my article **"[Title of the Article]"**, which explores how Manim can be used in different fields.
+This repository contains various Manim scripts that demonstrate key ideas covered in my article **"Using Manim For Making UI Animations"**, which explores how Manim can be used in different fields.
 
 ## ✨ Example Animations
 
