@@ -1,0 +1,25 @@
+from manim import *
+
+class BubbleSort(Scene):
+    def construct(self):
+        numbers = [5, 3, 8, 2, 6]  # Example list to sort
+        number_objects = VGroup(*[Text(str(num)) for num in numbers])
+        number_objects.arrange(RIGHT, buff=0.8)
+
+        self.play(*[Write(num) for num in number_objects])
+        self.wait()
+
+        for i in range(len(numbers) - 1):
+            for j in range(len(numbers) - 1 - i):
+                if numbers[j] > numbers[j + 1]:  
+                    numbers[j], numbers[j + 1] = numbers[j + 1], numbers[j]
+
+                    self.play(
+                        number_objects[j].animate.move_to(number_objects[j + 1].get_center()),
+                        number_objects[j + 1].animate.move_to(number_objects[j].get_center()),
+                        run_time=0.5
+                    )
+                    number_objects[j], number_objects[j + 1] = number_objects[j + 1], number_objects[j]
+                    self.wait(0.2)
+
+        self.wait()
