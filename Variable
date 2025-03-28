@@ -1,2 +1,26 @@
+from manim import *
 
+class VariableAssignment(Scene):
+  def construct(self):
+    # Create a box to represent the variable
+    box = Square(color=BLUE).scale(1.5)
+    label = Text("x", font_size=36).next_to(box, UP)
+
+    # List of values to assign to x
+    values = ["5", "12", "8", "20", "3"]
+    value_text = Text(values[0], font_size=36).move_to(box.get_center())
+
+    # Show the variable and first value
+    self.play(Create(box), Write(label))
+    self.play(Write(value_text))
+    self.wait(1)
+
+    # Update variable multiple times
+    for new_value in values[1:]:
+      new_text = Text(new_value, font_size=36).move_to(box.get_center())
+      self.play(Transform(value_text, new_text))
+      self.wait(1)
+
+    # Fade out everything
+    self.play(FadeOut(box, label, value_text))
  
